@@ -8,5 +8,9 @@ NON VEG MENU
  - Checken 65
  - Checken 555
  - Cheken Pakodi
- 
- Planning To implement More Food Items (Main)
+
+ Future Implementation
+  - Tandori Chicken
+  - Pulka
+  - Parota
+
